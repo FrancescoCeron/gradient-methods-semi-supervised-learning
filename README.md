@@ -59,7 +59,3 @@ The analysis evaluates:
 ## Authors
 - Francesco Ceron
 - Emanuele Cavaliero
-
-
-code/
-└── Finale.ipynb
